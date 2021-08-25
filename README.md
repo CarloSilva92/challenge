@@ -18,4 +18,4 @@ the goal should be to create a connection with an existing database in order tha
 
 - Improve controllers exception handling using a global exception handler;
 
-- In the future addition of functionalities always follow the microservice architecture.
+- In the future, the addition of functionalities should always follows the microservice architecture.
